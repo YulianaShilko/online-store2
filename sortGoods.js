@@ -150,7 +150,7 @@ function render(arr){
     var strHtml = "";
     
     for(var i=0; i<arr.length; i++){
-        strHtml += `<a href="https://yulianashilko.github.io/fd1-155-21/study/maketSelfFlex/indexMaketSelfGood.html"> 
+        strHtml += `<a href="https://yulianashilko.github.io/online-store2/indexMaketSelfGood.html"> 
                     <div class="card" id="cardId">
                             <img src="${arr[i].imgSrc}" class="card-img-top">
                             <div class="card-price">
